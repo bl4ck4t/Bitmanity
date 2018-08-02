@@ -1,0 +1,32 @@
+body {
+  background-color: #8b8d8e;
+}
+.container {
+  border-radius: 5px;
+  width: 95%;
+  height: auto;
+  border: 1px solid;
+  padding: 20px;
+  margin: auto;
+  background-color:white;
+}
+.container-fluid {
+  border:2px solid;
+  border-color: white;
+}
+.nav-item {
+  color: #8b8d8e;
+}
+.navbar-toggler {
+  border-bottom: 2px;
+}
+.container-or {
+  border: 2px solid;
+  border-color: white;
+  border-radius: 20px;
+  color: white;
+}
+.navbar-search {
+  border: 2px solid;
+  border-color: white;
+}
